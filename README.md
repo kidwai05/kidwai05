@@ -113,17 +113,6 @@ Named for the stories we tell. A Python project from the archive.
 
 `✦ ─────────── ❋ ─────────── ✦`
 
-### ♥ &nbsp;the tally&nbsp; ♥
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kidwai05&show_icons=true&hide_border=false&bg_color=2a1a14&title_color=d9a441&text_color=f3e6c8&icon_color=c2456b&border_color=a8321f&ring_color=8a9a5b&custom_title=The%20Tally" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidwai05&layout=compact&hide_border=false&bg_color=2a1a14&title_color=d9a441&text_color=f3e6c8&border_color=a8321f&custom_title=Tongues%20Spoken" />
-
-<br/><br/>
-
-`✦ ─────────── ❋ ─────────── ✦`
-
 ### 🦋 &nbsp;say hello&nbsp; 🦋
 
 <br/>
